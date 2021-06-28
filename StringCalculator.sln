@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculator", "StringCalculator\StringCalculator.csproj", "{8DE0A070-DB55-4C6C-B336-792F45C0DFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE0A070-DB55-4C6C-B336-792F45C0DFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE0A070-DB55-4C6C-B336-792F45C0DFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE0A070-DB55-4C6C-B336-792F45C0DFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE0A070-DB55-4C6C-B336-792F45C0DFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684FC362-7641-455F-A384-0F862FC414E2}
+	EndGlobalSection
+EndGlobal

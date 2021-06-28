@@ -1,0 +1,13 @@
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.exe
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.json
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.dev.json
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.AssemblyReference.cache
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\VSWorkplace\C#\StringCalculator\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
